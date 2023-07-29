@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on PYTHON, ML projects and GameDev
 
-📫 reach me by mail:- itspavan09@gmail.com..
+📫 reach me by mail:- itspavan09@gmail.com...
 
 <!---
 PavanKalisetti/PavanKalisetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
