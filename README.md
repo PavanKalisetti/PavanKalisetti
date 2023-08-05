@@ -1,6 +1,6 @@
 👋 Hi, I’m @Pavan09
 
-👀 I’m interested in ML and AI
+👀 I’m interested in Android Dev, ML and AI
 
 🌱 I’m currently learning GameDev
 
