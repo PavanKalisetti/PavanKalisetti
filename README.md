@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning GameDev
 
-💞️ I’m looking to collaborate on Androidmm PYTHON, ML projects and GameDev
+💞️ I’m looking to collaborate on Android PYTHON, ML projects and GameDev
 
 📫 reach me by mail:- itspavan09@gmail.com...
 
